@@ -1,2 +1,7 @@
 # hello-world
-Testing Githubs Repository system
+
+Testing 1, 2, 3
+This is just a test trying out githubs repository system
+Disreguard. 
+
+
